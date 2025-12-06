@@ -330,7 +330,7 @@ unicode-slugify==0.1.5
     # via -r pip.in
 unidecode==1.4.0
     # via unicode-slugify
-urllib3==2.5.0
+urllib3==2.6.0
     # via
     #   botocore
     #   docker
