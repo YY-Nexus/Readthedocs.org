@@ -235,7 +235,7 @@ pyjwt[crypto]==2.10.1
     # via
     #   django-allauth
     #   pygithub
-pynacl==1.6.0
+pynacl==1.6.2
     # via pygithub
 pyquery==2.0.1
     # via -r pip.in
