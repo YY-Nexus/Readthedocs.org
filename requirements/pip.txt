@@ -169,7 +169,7 @@ elasticsearch-dsl==8.18.0
     # via -r pip.in
 fido2==2.0.0
     # via django-allauth
-filelock==3.19.1
+filelock==3.20.3
     # via virtualenv
 gunicorn==23.0.0
     # via -r pip.in
@@ -344,7 +344,7 @@ vine==5.1.0
     #   amqp
     #   celery
     #   kombu
-virtualenv==20.34.0
+virtualenv==20.36.1
     # via -r pip.in
 wcwidth==0.2.14
     # via prompt-toolkit
