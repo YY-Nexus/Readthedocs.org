@@ -169,7 +169,7 @@ elasticsearch-dsl==8.18.0
     # via -r pip.in
 fido2==2.0.0
     # via django-allauth
-filelock==3.19.1
+filelock==3.20.3
     # via virtualenv
 gunicorn==23.0.0
     # via -r pip.in
